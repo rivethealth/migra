@@ -1,3 +1,5 @@
+Note from Rivet: this was created to mimic Paul's fork of the original repo, found here: https://github.com/pauldraper/migra/tree/pauldraper/comment
+
 # migra: Like diff but for Postgres schemas
 
 - ## compare schemas
